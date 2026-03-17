@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "THEJASVLOGGERSERVER.aternos.me:26434,
+    "ip": "THEJASVLOGGERSERVER.aternos.me,
     "port":26434,
     "version": "",
     "try-creative": false
