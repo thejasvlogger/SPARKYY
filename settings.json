@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "THEJASVLOGGERSERVER.aternos.me:26434,
+    "port":26434,
     "version": "",
     "try-creative": false
   },
